@@ -37,6 +37,22 @@ public class BirdSanctuaryManager {
             System.out.println(birdList.get(i));
         }
     }
+
+	public void add(Ostrich ostrich) {
+		
+	}
+
+	public void add(Penguin penguin) {
+		
+	}
+
+	public void add(Parrot parrot) {
+		
+	}
+
+	public void add(Dove dove) {
+		
+	}
 } 
 
 	
